@@ -23,8 +23,8 @@ export const Product = styled.View`
   padding: 15px 10px;
   border-radius: 5px;
   margin: 5px;
-  flex: 1;
   flex-direction: row;
+  min-height: 125px;
 `;
 
 export const ProductImage = styled.Image`
